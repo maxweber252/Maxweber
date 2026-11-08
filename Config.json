@@ -1,0 +1,51 @@
+json
+{
+  "bot_name": "Royaume Eternel",
+  "prefix": "+",
+  "owner_id": "61589776496049",
+  "owner_name": "Maxweber",
+  "total_commandes": 525,
+  "version": "1.0",
+  "langue": "fr",
+  "owner_only_commands": [
+    "shutdown",
+    "restart",
+    "give",
+    "resetdata",
+    "setprefix",
+    "ban",
+    "unban",
+    "annonce",
+    "setrankup",
+    "addadmin",
+    "removeadmin",
+    "setlang"
+  ],
+  "categories": [
+    { "nom": "👑 Royaume", "nombre": 120, "prefix": "+" },
+    { "nom": "💰 Economy", "nombre": 60, "prefix": "+" },
+    { "nom": "🎮 Game", "nombre": 60, "prefix": "+" },
+    { "nom": "💬 Box Chat", "nombre": 40, "prefix": "+" },
+    { "nom": "🤖 AI", "nombre": 30, "prefix": "+" },
+    { "nom": "🎵 Music", "nombre": 25, "prefix": "+" },
+    { "nom": "🎉 Fun", "nombre": 30, "prefix": "+" },
+    { "nom": "🖼️ Image", "nombre": 30, "prefix": "+" },
+    { "nom": "ℹ️ Info", "nombre": 25, "prefix": "+" },
+    { "nom": "🛠️ Admin", "nombre": 30, "prefix": "+" },
+    { "nom": "👤 User", "nombre": 20, "prefix": "+" },
+    { "nom": "📦 Autres", "nombre": 55, "prefix": "+" }
+  ],
+  "exemples_commandes": [
+    "+menu",
+    "+myid",
+    "+royaume stat",
+    "+royaume recolte",
+    "+royaume taxe",
+    "+royaume daily",
+    "+sing",
+    "+balance",
+    "+ban",
+    "+shutdown"
+  ]
+    }
+      
