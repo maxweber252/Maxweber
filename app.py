@@ -135,7 +135,7 @@ def recevoir():
 
 @app.route("/", methods=["GET"])
 def home():
-    return f"Bot Royaume Eternel en ligne ! Owner : {OWNER_NAME} ({OWNER_ID}) | {len(COMMANDES)} commandes | Prefix : {PREFIX}"
+    return f"Marie est en ligne 😁! Owner : {OWNER_NAME} ({OWNER_ID}) | {len(COMMANDES)} commandes | Prefix : {PREFIX}"
 
 if __name__ == "__main__":
     app.run(port=5000)
@@ -146,7 +146,7 @@ Et ton config.json final :
 json
 {
   "prefix": "+",
-  "bot_name": "Royaume Eternel",
+  "bot_name": "Marie",
   "total_commandes": 525,
   "owner_id": "61589776496049",
   "owner_name": "Maxweber"
