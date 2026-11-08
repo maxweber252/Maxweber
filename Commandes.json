@@ -1,0 +1,14 @@
+json
+{
+  "prefix": "+",
+  "owner_id": "61589776496049",
+  "total": 525,
+  "commandes": {
+    "royaume": ["royaume stat", "royaume recolte", "royaume taxe", "royaume daily", "royaume classement", "royaume boutique epee de feu", "royaume dragon drakor noir"],
+    "economy": ["balance", "bank", "daily", "ferme", "mine", "colony"],
+    "game": ["blackjack", "slot", "quiz", "ludo", "echecs", "poker"],
+    "music": ["sing", "play", "stop", "skip", "queue", "lyrics"],
+    "ai": ["ai", "gpt", "midjourney", "sunoai"],
+    "admin_owner_only": ["shutdown", "restart", "give", "resetdata", "ban", "annonce"]
+  }
+}
